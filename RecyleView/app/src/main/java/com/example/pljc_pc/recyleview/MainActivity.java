@@ -1,0 +1,55 @@
+package com.example.pljc_pc.recyleview;
+
+import android.support.v7.app.AlertDialog;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                // simpan ke dalam pojo
+
+                siswaArrayList.add(
+                        new Siswa(
+                                edtNama.getText().toString(),
+                        )
+                                );
+
+
+
+
+
+}

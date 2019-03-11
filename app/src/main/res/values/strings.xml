@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UAS_KRISTIN</string>
+    <string name="action_settings">DATA PESERTA</string>
+    <string-array name="Event">
+        <item>Event</item>
+        <item>Workshop SQL Express</item>
+        <item>Web PHP</item>
+        <item>Java Dengan JFrame</item>
+        <item>Oracle</item>
+    </string-array>
+</resources>
